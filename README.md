@@ -1,2 +1,2 @@
 # Linux
-Linux prompt commands 
+Linux Prompt commands 
